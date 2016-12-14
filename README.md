@@ -1,2 +1,2 @@
 # go-learn
-learn go
+develop go app
